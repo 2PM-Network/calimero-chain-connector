@@ -11,7 +11,7 @@
 
 Here's how 2PM.Network meets the sponsor (Calimero) requirements:
 
-1. **Privacy-Preserving AI Training with Blockchain Integration:** 2PM.Network enables decentralized, privacy-focused AI model training through blockchain integration. Using fully homomorphic encryption and federated learning, it allows collaborative model training while ensuring data privacy. Each node's contributions are secured and transparently verifiable, using Calimero's Chain Connector for seamless communication with the blockchain.
+1. **Privacy-Preserving AI Training with Blockchain Integration:** 2PM.Network enables decentralized, privacy-focused AI model training through blockchain integration. Using federated learning, it allows collaborative model training while ensuring data privacy. Each node's contributions are secured and transparently verifiable, using Calimero's Chain Connector for seamless communication with the blockchain.
 
 2. **Data Privacy Through Federated Learning:** The project creates a distributed AI training ecosystem where data remains on its source nodes, never leaving its original location. Model updates are securely encrypted and transmitted, enhancing AI capabilities without compromising individual data privacy. This approach aligns with Calimero's goal of privacy-preserving AI by maintaining the sovereignty of user data.
 
