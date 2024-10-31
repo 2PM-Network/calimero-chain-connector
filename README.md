@@ -1,6 +1,3 @@
-Based on the provided template for Night's Watcher, here is a detailed project introduction for **2PM.Network**:
-
----
 
 **Related Resources**
 
